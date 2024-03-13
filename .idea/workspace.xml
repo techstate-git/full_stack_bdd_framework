@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="947846cd-f2f1-403b-b3d8-97c24ea5fb54" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DriverExeFiles/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/CreateCustomerAPI.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Features/HeaderDoll.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/CreateCustomerAPISteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/RussianDoll_1_Step.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/APIHelper/ApiIntegrationUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/APIHelper/PropertyFileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/APIHelper/ResponseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/APIHelper/RuntimeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/DetailHooks/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/DriverHelpers/DriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utils/POJOS/CustomerPojo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/app.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/IEDriverServer.exe" beforeDir="false" afterPath="$PROJECT_DIR$/DriverExeFiles/IEDriverServer.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/chromedriver.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Drivers/geckodriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/DriverExeFiles/geckodriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/AddcustomerPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/AddcustomerPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pageObjects/SearchCustomerPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/SearchCustomerPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/BaseClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/BaseClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/Stepdef.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Stepdef.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testRunner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testRunner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/CucumberSDETProject-0.0.1-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-testRunner.TestRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-testRunner.TestRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testRunner.TestRunner.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testRunner.TestRunner.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/AddcustomerPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/LoginPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/pageObjects/SearchCustomerPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/BaseClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Stepdef.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/stepDefinitions/Stepdef.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testRunner/TestRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testRunner/TestRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/formatter.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/formatter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/jquery-1.8.2.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/jquery-1.8.2.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/report.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2dII1PPQORWUmjDJwhuXhQczuVA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aipeeri/techstate_latest_bddframework/CucumberSDETProject/src/resources&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aipeeri\techstate_latest_bddframework\CucumberSDETProject\src\resources" />
+      <recent name="C:\Users\Aipeeri\techstate_latest_bddframework\CucumberSDETProject\src\test\resources" />
+      <recent name="C:\Users\Aipeeri\techstate_latest_bddframework\CucumberSDETProject\src\test\java" />
+      <recent name="C:\Users\Aipeeri\techstate_latest_bddframework\CucumberSDETProject" />
+      <recent name="C:\Users\Aipeeri\techstate_latest_bddframework\CucumberSDETProject\Drivers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aipeeri\techstate_latest_bddframework\CucumberSDETProject\src\test" />
+      <recent name="C:\Users\Aipeeri\techstate_latest_bddframework\CucumberSDETProject\src" />
+      <recent name="C:\Users\Aipeeri\techstate_latest_bddframework\CucumberSDETProject\Logs" />
+      <recent name="C:\Users\Aipeeri\techstate_latest_bddframework\CucumberSDETProject" />
+      <recent name="C:\Users\Aipeeri\techstate_latest_bddframework\CucumberSDETProject\src\test\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils.APIHelper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Feature: HeaderDoll" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/HeaderDoll.feature" />
+      <option name="GLUE" value="stepDefinitions utils.DetailHooks" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="TechStateMarketPrepTestAutomationProjects" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: HeaderDoll" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Russian Doll 3 - Create customer request with dynamic header - @Header - Example n°1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/HeaderDoll.feature:17" />
+      <option name="GLUE" value="stepDefinitions utils.DetailHooks" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="TechStateMarketPrepTestAutomationProjects" />
+      <option name="NAME_FILTER" value="^Russian Doll 3 \- Create customer request with dynamic header$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Russian Doll 3 \- Create customer request with dynamic header$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Russian Doll 3 - Create customer request with dynamic header - @Header - Example n°1" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Russian Doll 3 - Create customer request with dynamic header" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/HeaderDoll.feature" />
+      <option name="GLUE" value="stepDefinitions utils.DetailHooks" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="TechStateMarketPrepTestAutomationProjects" />
+      <option name="NAME_FILTER" value="^Russian Doll 3 \- Create customer request with dynamic header$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Russian Doll 3 \- Create customer request with dynamic header$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Russian Doll 3 - Create customer request with dynamic header" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Search Customer by EMailID" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/Features/Customers1.feature" />
+      <option name="GLUE" value="stepDefinitions utils.DetailHooks" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="TechStateMarketPrepTestAutomationProjects" />
+      <option name="NAME_FILTER" value="^Search Customer by EMailID$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter --name &quot;^Search Customer by EMailID$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Search Customer by EMailID" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TechStateMarketPrepTestAutomationProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="Cucumber Java.Scenario: Search Customer by EMailID" />
+        <item itemvalue="Cucumber Java.Scenario: Russian Doll 3 - Create customer request with dynamic header" />
+        <item itemvalue="Cucumber Java.Scenario: Russian Doll 3 - Create customer request with dynamic header - @Header - Example n°1" />
+        <item itemvalue="Cucumber Java.Feature: HeaderDoll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="947846cd-f2f1-403b-b3d8-97c24ea5fb54" name="Changes" comment="" />
+      <created>1709688950515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709688950515</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/dependabot/maven/junit-junit-4.13.1" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/dependabot/maven/junit-junit-4.13.1" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/stepDefinitions/Stepdef.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/utils/DetailHooks/Hooks.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/utils/DriverHelpers/DriverFactory.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/utils/DetailHooks/Hooks.java</url>
+          <line>18</line>
+          <properties class="utils.DetailHooks.Hooks" method="setupScenario">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="CucumberJavaRunConfigurationType">
+        <watch expression="properties" language="JAVA" />
+        <watch expression="properties" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
