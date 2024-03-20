@@ -1,0 +1,360 @@
+2019-09-24 21:29:05,982  INFO [main] nopCommerceSDET:33 - ************* Launching Browser *****************
+2019-09-24 21:29:06,013  INFO [main] nopCommerceSDET:39 - ************* Opening URL  *****************
+2019-09-24 21:29:09,761  INFO [main] nopCommerceSDET:46 - ************* Prvding user and password *****************
+2019-09-24 21:29:10,175  INFO [main] nopCommerceSDET:53 - ************* click on login *****************
+2019-09-24 21:29:17,120  INFO [main] nopCommerceSDET:94 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 21:29:20,155  INFO [main] nopCommerceSDET:101 - ********* Clicking on customer main menu **************
+2019-09-24 21:29:22,294  INFO [main] nopCommerceSDET:108 - ********* Clicking on customer sub menu **************
+2019-09-24 21:29:34,916  INFO [main] nopCommerceSDET:145 - ********* Saving customer details **************
+2019-09-24 21:29:39,107  INFO [main] nopCommerceSDET:84 - ************* cloding browser *****************
+2019-09-24 21:29:42,151  INFO [main] nopCommerceSDET:33 - ************* Launching Browser *****************
+2019-09-24 21:29:42,153  INFO [main] nopCommerceSDET:39 - ************* Opening URL  *****************
+2019-09-24 21:29:44,922  INFO [main] nopCommerceSDET:46 - ************* Prvding user and password *****************
+2019-09-24 21:29:45,318  INFO [main] nopCommerceSDET:53 - ************* click on login *****************
+2019-09-24 21:29:51,379  INFO [main] nopCommerceSDET:94 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 21:29:54,412  INFO [main] nopCommerceSDET:101 - ********* Clicking on customer main menu **************
+2019-09-24 21:29:56,514  INFO [main] nopCommerceSDET:108 - ********* Clicking on customer sub menu **************
+2019-09-24 21:29:57,856  INFO [main] nopCommerceSDET:160 - ********* Searching customer details by Email **************
+2019-09-24 21:30:01,568  INFO [main] nopCommerceSDET:84 - ************* cloding browser *****************
+2019-09-24 21:30:04,727  INFO [main] nopCommerceSDET:33 - ************* Launching Browser *****************
+2019-09-24 21:30:04,730  INFO [main] nopCommerceSDET:39 - ************* Opening URL  *****************
+2019-09-24 21:30:07,464  INFO [main] nopCommerceSDET:46 - ************* Prvding user and password *****************
+2019-09-24 21:30:07,916  INFO [main] nopCommerceSDET:53 - ************* click on login *****************
+2019-09-24 21:30:14,057  INFO [main] nopCommerceSDET:68 - ************* Login Passed *****************
+2019-09-24 21:30:17,072  INFO [main] nopCommerceSDET:77 - ************* clciking on logout *****************
+2019-09-24 21:30:21,708  INFO [main] nopCommerceSDET:68 - ************* Login Passed *****************
+2019-09-24 21:30:24,719  INFO [main] nopCommerceSDET:84 - ************* cloding browser *****************
+2019-09-24 21:43:04,275  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:43:04,388  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:43:07,442  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:43:07,629  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:43:15,948  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 21:43:18,970  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 21:43:21,240  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 21:43:36,019  INFO [main] nopCommerceSDET:174 - ********* Saving customer details **************
+2019-09-24 21:43:41,304  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 21:43:51,860  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:43:51,863  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:43:55,183  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:43:55,423  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:44:08,100  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 21:44:11,119  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 21:44:13,411  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 21:44:15,250  INFO [main] nopCommerceSDET:189 - ********* Searching customer details by Email **************
+2019-09-24 21:44:19,031  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 21:44:26,264  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:44:26,275  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:44:28,285  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:44:28,498  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:44:34,533  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 21:44:37,546  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2019-09-24 21:44:42,088  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 21:44:45,098  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 21:53:34,775  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:53:34,953  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:53:38,470  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:53:38,747  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:53:46,860  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 21:53:49,879  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 21:53:52,158  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 21:54:05,797  INFO [main] nopCommerceSDET:174 - ********* Saving customer details **************
+2019-09-24 21:54:11,194  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 21:54:19,851  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:54:19,854  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:54:22,091  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:54:22,275  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:54:27,912  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 21:54:30,927  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2019-09-24 21:54:35,514  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 21:54:38,525  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 21:57:25,321  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:57:25,386  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:57:29,100  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:57:29,556  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:57:36,132  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 21:57:39,161  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 21:57:41,302  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 21:57:55,252  INFO [main] nopCommerceSDET:174 - ********* Saving customer details **************
+2019-09-24 21:57:59,807  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 21:58:03,099  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 21:58:03,103  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 21:58:05,783  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 21:58:06,162  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 21:58:10,970  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 21:58:14,058  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2019-09-24 21:58:18,564  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 21:58:21,580  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 22:00:00,634  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 22:00:00,743  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 22:00:06,151  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 22:00:06,603  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 22:00:29,387  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 22:00:32,518  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 22:00:34,702  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 22:00:50,194  INFO [main] nopCommerceSDET:174 - ********* Saving customer details **************
+2019-09-24 22:00:55,005  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 22:00:58,326  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 22:00:58,327  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 22:01:02,171  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 22:01:02,615  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 22:01:10,604  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 22:01:13,696  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2019-09-24 22:01:19,540  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 22:01:22,560  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 22:06:50,066  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 22:06:50,120  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 22:06:54,835  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 22:06:55,272  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 22:07:02,089  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 22:07:05,112  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 22:07:07,213  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 22:07:20,301  INFO [main] nopCommerceSDET:174 - ********* Saving customer details **************
+2019-09-24 22:07:24,646  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 22:07:27,888  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 22:07:27,890  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 22:07:31,890  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 22:07:32,340  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 22:07:38,918  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 22:07:42,037  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2019-09-24 22:07:46,555  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 22:07:49,582  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 22:11:20,734  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 22:11:20,779  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 22:11:24,655  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 22:11:25,030  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 22:11:31,080  INFO [main] nopCommerceSDET:123 - ********* Verifying Dashboad page title after login successful **************
+2019-09-24 22:11:34,105  INFO [main] nopCommerceSDET:130 - ********* Clicking on customer main menu **************
+2019-09-24 22:11:36,208  INFO [main] nopCommerceSDET:137 - ********* Clicking on customer sub menu **************
+2019-09-24 22:11:49,406  INFO [main] nopCommerceSDET:174 - ********* Saving customer details **************
+2019-09-24 22:11:53,593  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2019-09-24 22:11:56,891  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2019-09-24 22:11:56,893  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2019-09-24 22:12:00,762  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2019-09-24 22:12:01,181  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2019-09-24 22:12:07,503  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 22:12:10,523  INFO [main] nopCommerceSDET:106 - ************* clciking on logout *****************
+2019-09-24 22:12:15,036  INFO [main] nopCommerceSDET:97 - ************* Login Passed *****************
+2019-09-24 22:12:18,051  INFO [main] nopCommerceSDET:113 - ************* cloding browser *****************
+2024-03-08 13:30:18,160  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2024-03-08 13:30:18,186  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2024-03-08 13:30:20,942  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2024-03-08 13:30:21,227  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2024-03-08 13:32:44,247  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2024-03-08 13:32:44,266  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2024-03-08 13:32:44,919  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2024-03-08 13:32:45,236  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2024-03-08 13:32:45,904  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2024-03-08 13:32:45,906  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2024-03-08 13:32:46,614  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2024-03-08 13:32:46,960  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2024-03-08 13:36:42,606  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2024-03-08 13:36:42,620  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2024-03-08 13:36:44,484  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2024-03-08 13:36:44,725  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2024-03-08 13:36:45,373  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2024-03-08 13:36:45,374  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2024-03-08 13:36:47,230  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2024-03-08 13:36:47,476  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2024-03-08 13:38:02,041  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2024-03-08 13:38:02,060  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2024-03-08 13:38:03,826  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2024-03-08 13:38:04,115  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2024-03-08 13:38:04,752  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2024-03-08 13:38:04,755  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2024-03-08 13:38:05,616  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2024-03-08 13:38:05,905  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2024-03-08 13:42:02,630  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2024-03-08 13:42:02,653  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2024-03-08 13:42:03,683  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2024-03-08 13:42:03,986  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2024-03-08 13:42:04,672  INFO [main] nopCommerceSDET:62 - ************* Launching Browser *****************
+2024-03-08 13:42:04,673  INFO [main] nopCommerceSDET:68 - ************* Opening URL  *****************
+2024-03-08 13:42:05,581  INFO [main] nopCommerceSDET:75 - ************* Prvding user and password *****************
+2024-03-08 13:42:05,938  INFO [main] nopCommerceSDET:82 - ************* click on login *****************
+2024-03-08 17:31:12,035 DEBUG [main] BasicClientConnectionManager:161 - Get connection for route {s}->https://jsonplaceholder.typicode.com:443
+2024-03-08 17:31:12,092 DEBUG [main] DefaultClientConnectionOperator:177 - Connecting to jsonplaceholder.typicode.com:443
+2024-03-08 17:31:12,502 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: ignoreCookies
+2024-03-08 17:31:12,505 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2024-03-08 17:31:12,506 DEBUG [main] RequestTargetAuthentication:80 - Target auth state: UNCHALLENGED
+2024-03-08 17:31:12,508 DEBUG [main] RequestProxyAuthentication:89 - Proxy auth state: UNCHALLENGED
+2024-03-08 17:31:12,508 DEBUG [main] DefaultHttpClient:682 - Attempt 1 to execute request
+2024-03-08 17:31:12,509 DEBUG [main] DefaultClientConnection:274 - Sending request: POST /albums HTTP/1.1
+2024-03-08 17:31:12,510 DEBUG [main] wire:73 -  >> "POST /albums HTTP/1.1[\r][\n]"
+2024-03-08 17:31:12,512 DEBUG [main] wire:73 -  >> "Accept: */*[\r][\n]"
+2024-03-08 17:31:12,512 DEBUG [main] wire:73 -  >> "Alexey: test[\r][\n]"
+2024-03-08 17:31:12,513 DEBUG [main] wire:73 -  >> "Content-Type: text/plain; charset=ISO-8859-1[\r][\n]"
+2024-03-08 17:31:12,514 DEBUG [main] wire:73 -  >> "Content-Length: 71[\r][\n]"
+2024-03-08 17:31:12,514 DEBUG [main] wire:73 -  >> "Host: jsonplaceholder.typicode.com[\r][\n]"
+2024-03-08 17:31:12,515 DEBUG [main] wire:73 -  >> "Connection: Keep-Alive[\r][\n]"
+2024-03-08 17:31:12,516 DEBUG [main] wire:73 -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/11.0.19)[\r][\n]"
+2024-03-08 17:31:12,520 DEBUG [main] wire:73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2024-03-08 17:31:12,521 DEBUG [main] wire:73 -  >> "[\r][\n]"
+2024-03-08 17:31:12,522 DEBUG [main] headers:278 - >> POST /albums HTTP/1.1
+2024-03-08 17:31:12,522 DEBUG [main] headers:281 - >> Accept: */*
+2024-03-08 17:31:12,523 DEBUG [main] headers:281 - >> Alexey: test
+2024-03-08 17:31:12,524 DEBUG [main] headers:281 - >> Content-Type: text/plain; charset=ISO-8859-1
+2024-03-08 17:31:12,524 DEBUG [main] headers:281 - >> Content-Length: 71
+2024-03-08 17:31:12,525 DEBUG [main] headers:281 - >> Host: jsonplaceholder.typicode.com
+2024-03-08 17:31:12,525 DEBUG [main] headers:281 - >> Connection: Keep-Alive
+2024-03-08 17:31:12,526 DEBUG [main] headers:281 - >> User-Agent: Apache-HttpClient/4.5.3 (Java/11.0.19)
+2024-03-08 17:31:12,527 DEBUG [main] headers:281 - >> Accept-Encoding: gzip,deflate
+2024-03-08 17:31:12,527 DEBUG [main] wire:87 -  >> "{"lastName":"skvbehjcb 3","phone":"Union 3","addresses":["Doll 3","3"]}"
+2024-03-08 17:31:12,667 DEBUG [main] wire:73 -  << "HTTP/1.1 201 Created[\r][\n]"
+2024-03-08 17:31:12,672 DEBUG [main] wire:73 -  << "Date: Fri, 08 Mar 2024 23:31:12 GMT[\r][\n]"
+2024-03-08 17:31:12,673 DEBUG [main] wire:73 -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2024-03-08 17:31:12,674 DEBUG [main] wire:73 -  << "Content-Length: 15[\r][\n]"
+2024-03-08 17:31:12,674 DEBUG [main] wire:73 -  << "Connection: keep-alive[\r][\n]"
+2024-03-08 17:31:12,675 DEBUG [main] wire:73 -  << "Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1709940672&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&s=4afx1oPOU4kal%2BqUxFwYVppmWwQiyK%2B4s1Zvi9fjGKo%3D"}]}[\r][\n]"
+2024-03-08 17:31:12,676 DEBUG [main] wire:73 -  << "Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1709940672&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&s=4afx1oPOU4kal%2BqUxFwYVppmWwQiyK%2B4s1Zvi9fjGKo%3D[\r][\n]"
+2024-03-08 17:31:12,677 DEBUG [main] wire:73 -  << "Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}[\r][\n]"
+2024-03-08 17:31:12,677 DEBUG [main] wire:73 -  << "X-Powered-By: Express[\r][\n]"
+2024-03-08 17:31:12,678 DEBUG [main] wire:73 -  << "X-Ratelimit-Limit: 1000[\r][\n]"
+2024-03-08 17:31:12,679 DEBUG [main] wire:73 -  << "X-Ratelimit-Remaining: 999[\r][\n]"
+2024-03-08 17:31:12,679 DEBUG [main] wire:73 -  << "X-Ratelimit-Reset: 1709940716[\r][\n]"
+2024-03-08 17:31:12,680 DEBUG [main] wire:73 -  << "Vary: Origin, X-HTTP-Method-Override, Accept-Encoding[\r][\n]"
+2024-03-08 17:31:12,680 DEBUG [main] wire:73 -  << "Access-Control-Allow-Credentials: true[\r][\n]"
+2024-03-08 17:31:12,681 DEBUG [main] wire:73 -  << "Cache-Control: no-cache[\r][\n]"
+2024-03-08 17:31:12,682 DEBUG [main] wire:73 -  << "Pragma: no-cache[\r][\n]"
+2024-03-08 17:31:12,682 DEBUG [main] wire:73 -  << "Expires: -1[\r][\n]"
+2024-03-08 17:31:12,683 DEBUG [main] wire:73 -  << "Access-Control-Expose-Headers: Location[\r][\n]"
+2024-03-08 17:31:12,684 DEBUG [main] wire:73 -  << "Location: https://jsonplaceholder.typicode.com/albums/101[\r][\n]"
+2024-03-08 17:31:12,684 DEBUG [main] wire:73 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2024-03-08 17:31:12,685 DEBUG [main] wire:73 -  << "Etag: W/"f-4jjw4Y8q22Yv1PV9m28FczJgjzk"[\r][\n]"
+2024-03-08 17:31:12,686 DEBUG [main] wire:73 -  << "Via: 1.1 vegur[\r][\n]"
+2024-03-08 17:31:12,686 DEBUG [main] wire:73 -  << "CF-Cache-Status: DYNAMIC[\r][\n]"
+2024-03-08 17:31:12,687 DEBUG [main] wire:73 -  << "Server: cloudflare[\r][\n]"
+2024-03-08 17:31:12,687 DEBUG [main] wire:73 -  << "CF-RAY: 86169e134dc76210-ORD[\r][\n]"
+2024-03-08 17:31:12,688 DEBUG [main] wire:73 -  << "alt-svc: h3=":443"; ma=86400[\r][\n]"
+2024-03-08 17:31:12,689 DEBUG [main] wire:73 -  << "[\r][\n]"
+2024-03-08 17:31:12,691 DEBUG [main] DefaultClientConnection:259 - Receiving response: HTTP/1.1 201 Created
+2024-03-08 17:31:12,691 DEBUG [main] headers:262 - << HTTP/1.1 201 Created
+2024-03-08 17:31:12,692 DEBUG [main] headers:265 - << Date: Fri, 08 Mar 2024 23:31:12 GMT
+2024-03-08 17:31:12,693 DEBUG [main] headers:265 - << Content-Type: application/json; charset=utf-8
+2024-03-08 17:31:12,693 DEBUG [main] headers:265 - << Content-Length: 15
+2024-03-08 17:31:12,694 DEBUG [main] headers:265 - << Connection: keep-alive
+2024-03-08 17:31:12,694 DEBUG [main] headers:265 - << Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1709940672&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&s=4afx1oPOU4kal%2BqUxFwYVppmWwQiyK%2B4s1Zvi9fjGKo%3D"}]}
+2024-03-08 17:31:12,695 DEBUG [main] headers:265 - << Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1709940672&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&s=4afx1oPOU4kal%2BqUxFwYVppmWwQiyK%2B4s1Zvi9fjGKo%3D
+2024-03-08 17:31:12,695 DEBUG [main] headers:265 - << Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+2024-03-08 17:31:12,696 DEBUG [main] headers:265 - << X-Powered-By: Express
+2024-03-08 17:31:12,697 DEBUG [main] headers:265 - << X-Ratelimit-Limit: 1000
+2024-03-08 17:31:12,697 DEBUG [main] headers:265 - << X-Ratelimit-Remaining: 999
+2024-03-08 17:31:12,698 DEBUG [main] headers:265 - << X-Ratelimit-Reset: 1709940716
+2024-03-08 17:31:12,698 DEBUG [main] headers:265 - << Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+2024-03-08 17:31:12,699 DEBUG [main] headers:265 - << Access-Control-Allow-Credentials: true
+2024-03-08 17:31:12,699 DEBUG [main] headers:265 - << Cache-Control: no-cache
+2024-03-08 17:31:12,700 DEBUG [main] headers:265 - << Pragma: no-cache
+2024-03-08 17:31:12,701 DEBUG [main] headers:265 - << Expires: -1
+2024-03-08 17:31:12,701 DEBUG [main] headers:265 - << Access-Control-Expose-Headers: Location
+2024-03-08 17:31:12,702 DEBUG [main] headers:265 - << Location: https://jsonplaceholder.typicode.com/albums/101
+2024-03-08 17:31:12,702 DEBUG [main] headers:265 - << X-Content-Type-Options: nosniff
+2024-03-08 17:31:12,703 DEBUG [main] headers:265 - << Etag: W/"f-4jjw4Y8q22Yv1PV9m28FczJgjzk"
+2024-03-08 17:31:12,703 DEBUG [main] headers:265 - << Via: 1.1 vegur
+2024-03-08 17:31:12,704 DEBUG [main] headers:265 - << CF-Cache-Status: DYNAMIC
+2024-03-08 17:31:12,704 DEBUG [main] headers:265 - << Server: cloudflare
+2024-03-08 17:31:12,705 DEBUG [main] headers:265 - << CF-RAY: 86169e134dc76210-ORD
+2024-03-08 17:31:12,706 DEBUG [main] headers:265 - << alt-svc: h3=":443"; ma=86400
+2024-03-08 17:31:12,714 DEBUG [main] DefaultHttpClient:509 - Connection can be kept alive indefinitely
+2024-03-08 17:31:12,777 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:544 - Parsing response as: application/json; charset=utf-8
+2024-03-08 17:31:12,778 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:547 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2024-03-08 17:31:16,763 DEBUG [main] wire:73 -  << "{[\n]"
+2024-03-08 17:31:16,763 DEBUG [main] wire:73 -  << "  "id": 101[\n]"
+2024-03-08 17:31:16,764 DEBUG [main] wire:87 -  << "}"
+2024-03-08 17:31:16,766 DEBUG [main] BasicClientConnectionManager:200 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@4b325930
+2024-03-08 17:31:16,766 DEBUG [main] BasicClientConnectionManager:225 - Connection can be kept alive indefinitely
+2024-03-08 17:44:02,552 DEBUG [main] BasicClientConnectionManager:161 - Get connection for route {s}->https://jsonplaceholder.typicode.com:443
+2024-03-08 17:44:02,586 DEBUG [main] DefaultClientConnectionOperator:177 - Connecting to jsonplaceholder.typicode.com:443
+2024-03-08 17:44:02,819 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: ignoreCookies
+2024-03-08 17:44:02,819 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2024-03-08 17:44:02,819 DEBUG [main] RequestTargetAuthentication:80 - Target auth state: UNCHALLENGED
+2024-03-08 17:44:02,819 DEBUG [main] RequestProxyAuthentication:89 - Proxy auth state: UNCHALLENGED
+2024-03-08 17:44:02,819 DEBUG [main] DefaultHttpClient:682 - Attempt 1 to execute request
+2024-03-08 17:44:02,819 DEBUG [main] DefaultClientConnection:274 - Sending request: POST /users HTTP/1.1
+2024-03-08 17:44:02,819 DEBUG [main] wire:73 -  >> "POST /users HTTP/1.1[\r][\n]"
+2024-03-08 17:44:02,819 DEBUG [main] wire:73 -  >> "Accept-Charset: UTF-8[\r][\n]"
+2024-03-08 17:44:02,819 DEBUG [main] wire:73 -  >> "Accept: */*[\r][\n]"
+2024-03-08 17:44:02,819 DEBUG [main] wire:73 -  >> "Content-Type: application/json; charset=UTF-8[\r][\n]"
+2024-03-08 17:44:02,819 DEBUG [main] wire:73 -  >> "Content-Length: 89[\r][\n]"
+2024-03-08 17:44:02,819 DEBUG [main] wire:73 -  >> "Host: jsonplaceholder.typicode.com[\r][\n]"
+2024-03-08 17:44:02,835 DEBUG [main] wire:73 -  >> "Connection: Keep-Alive[\r][\n]"
+2024-03-08 17:44:02,835 DEBUG [main] wire:73 -  >> "User-Agent: Apache-HttpClient/4.5.3 (Java/11.0.19)[\r][\n]"
+2024-03-08 17:44:02,835 DEBUG [main] wire:73 -  >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2024-03-08 17:44:02,835 DEBUG [main] wire:73 -  >> "[\r][\n]"
+2024-03-08 17:44:02,835 DEBUG [main] headers:278 - >> POST /users HTTP/1.1
+2024-03-08 17:44:02,835 DEBUG [main] headers:281 - >> Accept-Charset: UTF-8
+2024-03-08 17:44:02,835 DEBUG [main] headers:281 - >> Accept: */*
+2024-03-08 17:44:02,835 DEBUG [main] headers:281 - >> Content-Type: application/json; charset=UTF-8
+2024-03-08 17:44:02,835 DEBUG [main] headers:281 - >> Content-Length: 89
+2024-03-08 17:44:02,835 DEBUG [main] headers:281 - >> Host: jsonplaceholder.typicode.com
+2024-03-08 17:44:02,835 DEBUG [main] headers:281 - >> Connection: Keep-Alive
+2024-03-08 17:44:02,835 DEBUG [main] headers:281 - >> User-Agent: Apache-HttpClient/4.5.3 (Java/11.0.19)
+2024-03-08 17:44:02,835 DEBUG [main] headers:281 - >> Accept-Encoding: gzip,deflate
+2024-03-08 17:44:02,835 DEBUG [main] wire:87 -  >> "{"firstName":"Alex","lastName":"Kozlov","phone":"123","addresses":["Backer 2","Union 3"]}"
+2024-03-08 17:44:02,913 DEBUG [main] wire:73 -  << "HTTP/1.1 201 Created[\r][\n]"
+2024-03-08 17:44:02,913 DEBUG [main] wire:73 -  << "Date: Fri, 08 Mar 2024 23:44:02 GMT[\r][\n]"
+2024-03-08 17:44:02,913 DEBUG [main] wire:73 -  << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2024-03-08 17:44:02,913 DEBUG [main] wire:73 -  << "Content-Length: 131[\r][\n]"
+2024-03-08 17:44:02,913 DEBUG [main] wire:73 -  << "Connection: keep-alive[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1709941442&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&s=1Z%2F4tRYRZZNGlROyJ07QcEunC5i2SqXJnTmdLZCTsyw%3D"}]}[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1709941442&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&s=1Z%2F4tRYRZZNGlROyJ07QcEunC5i2SqXJnTmdLZCTsyw%3D[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "X-Powered-By: Express[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "X-Ratelimit-Limit: 1000[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "X-Ratelimit-Remaining: 999[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "X-Ratelimit-Reset: 1709941496[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Vary: Origin, X-HTTP-Method-Override, Accept-Encoding[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Access-Control-Allow-Credentials: true[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Cache-Control: no-cache[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Pragma: no-cache[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Expires: -1[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Access-Control-Expose-Headers: Location[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Location: https://jsonplaceholder.typicode.com/users/11[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "X-Content-Type-Options: nosniff[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Etag: W/"83-Zxf4Q2uB+AVMnCYmvYQOqOQQFuY"[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Via: 1.1 vegur[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "CF-Cache-Status: DYNAMIC[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "Server: cloudflare[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "CF-RAY: 8616b0e1df1243dc-EWR[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "alt-svc: h3=":443"; ma=86400[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] wire:73 -  << "[\r][\n]"
+2024-03-08 17:44:02,929 DEBUG [main] DefaultClientConnection:259 - Receiving response: HTTP/1.1 201 Created
+2024-03-08 17:44:02,929 DEBUG [main] headers:262 - << HTTP/1.1 201 Created
+2024-03-08 17:44:02,929 DEBUG [main] headers:265 - << Date: Fri, 08 Mar 2024 23:44:02 GMT
+2024-03-08 17:44:02,929 DEBUG [main] headers:265 - << Content-Type: application/json; charset=utf-8
+2024-03-08 17:44:02,929 DEBUG [main] headers:265 - << Content-Length: 131
+2024-03-08 17:44:02,929 DEBUG [main] headers:265 - << Connection: keep-alive
+2024-03-08 17:44:02,929 DEBUG [main] headers:265 - << Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1709941442&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&s=1Z%2F4tRYRZZNGlROyJ07QcEunC5i2SqXJnTmdLZCTsyw%3D"}]}
+2024-03-08 17:44:02,929 DEBUG [main] headers:265 - << Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1709941442&sid=e11707d5-02a7-43ef-b45e-2cf4d2036f7d&s=1Z%2F4tRYRZZNGlROyJ07QcEunC5i2SqXJnTmdLZCTsyw%3D
+2024-03-08 17:44:02,929 DEBUG [main] headers:265 - << Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << X-Powered-By: Express
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << X-Ratelimit-Limit: 1000
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << X-Ratelimit-Remaining: 999
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << X-Ratelimit-Reset: 1709941496
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << Vary: Origin, X-HTTP-Method-Override, Accept-Encoding
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << Access-Control-Allow-Credentials: true
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << Cache-Control: no-cache
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << Pragma: no-cache
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << Expires: -1
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << Access-Control-Expose-Headers: Location
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << Location: https://jsonplaceholder.typicode.com/users/11
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << X-Content-Type-Options: nosniff
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << Etag: W/"83-Zxf4Q2uB+AVMnCYmvYQOqOQQFuY"
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << Via: 1.1 vegur
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << CF-Cache-Status: DYNAMIC
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << Server: cloudflare
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << CF-RAY: 8616b0e1df1243dc-EWR
+2024-03-08 17:44:02,945 DEBUG [main] headers:265 - << alt-svc: h3=":443"; ma=86400
+2024-03-08 17:44:02,945 DEBUG [main] DefaultHttpClient:509 - Connection can be kept alive indefinitely
+2024-03-08 17:44:02,960 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:544 - Parsing response as: application/json; charset=utf-8
+2024-03-08 17:44:02,960 DEBUG [main] RequestSpecificationImpl$RestAssuredHttpBuilder:547 - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2024-03-08 17:44:02,992 DEBUG [main] wire:73 -  << "{[\n]"
+2024-03-08 17:44:02,992 DEBUG [main] wire:73 -  << "  "firstName": "Alex",[\n]"
+2024-03-08 17:44:02,992 DEBUG [main] wire:73 -  << "  "lastName": "Kozlov",[\n]"
+2024-03-08 17:44:02,992 DEBUG [main] wire:73 -  << "  "phone": "123",[\n]"
+2024-03-08 17:44:02,992 DEBUG [main] wire:73 -  << "  "addresses": [[\n]"
+2024-03-08 17:44:02,992 DEBUG [main] wire:73 -  << "    "Backer 2",[\n]"
+2024-03-08 17:44:02,992 DEBUG [main] wire:73 -  << "    "Union 3"[\n]"
+2024-03-08 17:44:02,992 DEBUG [main] wire:73 -  << "  ],[\n]"
+2024-03-08 17:44:02,992 DEBUG [main] wire:73 -  << "  "id": 11[\n]"
+2024-03-08 17:44:02,992 DEBUG [main] wire:87 -  << "}"
+2024-03-08 17:44:02,992 DEBUG [main] BasicClientConnectionManager:200 - Releasing connection org.apache.http.impl.conn.ManagedClientConnectionImpl@6371cf2f
+2024-03-08 17:44:02,992 DEBUG [main] BasicClientConnectionManager:225 - Connection can be kept alive indefinitely
